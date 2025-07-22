@@ -30,7 +30,7 @@ _Klik gambar di atas untuk menonton demo_
 
 #### Ini adalah video akhir dari animasi yang dibuat
 
-[![Demo Aplikasi](/Documentary/preview.png)](https://youtu.be/YObkQtfF2bg)  
+[![Demo Aplikasi](/Documentary/Preview.png)](https://youtu.be/YObkQtfF2bg)  
 _Klik gambar di atas untuk menonton demo_
 
 ---
