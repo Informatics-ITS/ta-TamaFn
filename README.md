@@ -85,6 +85,7 @@ _Klik gambar di atas untuk menonton video_
 
 ---
 
+<!--
 ### Langkah-langkah
 
 1. **Clone Repository**
@@ -109,9 +110,9 @@ _Klik gambar di atas untuk menonton video_
    ```
 5. Buka browser dan kunjungi: `http://localhost:3000` (sesuaikan dengan port proyek Anda)
 
----
+--- -->
 
-## 📚 Dokumentasi Tambahan
+<!-- ## 📚 Dokumentasi Tambahan
 
 - [![Dokumentasi API]](docs/api.md)
 - [![Diagram Arsitektur]](docs/architecture.png)
@@ -128,7 +129,7 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 - README lengkap dan terupdate
 - Tidak ada data sensitif (password, API key) yang ter-expose
 
----
+--- -->
 
 ## ⁉️ Pertanyaan?
 
